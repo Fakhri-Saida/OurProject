@@ -403,3 +403,22 @@ span.price {
 #first {background-color:green;}
 #second {background-color:orange;}
 #third {background-color:red;}
+
+
+/* transparent text background */
+
+
+
+div.transbox {
+  margin: 30px;
+  background-color: #ffffff;
+  border: 1px solid black;
+  opacity: 0.6;
+}
+
+div.transbox p {
+  margin: 5%;
+  font-weight: bold;
+  color: #000000;
+}
+
